@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовая задача</string>
+
+    <string-array name="MNU_items">
+        <item>Предприятия</item>
+        <item>Новости</item>
+        <item>Контакты</item>
+    </string-array>
+
+    <string name="menu">Меню приложени</string>
+
+    <string name="first_screen">предприятия</string>
+    <string name="second_screen">список отделов</string>
+    <string name="third_screen">описанием отдела предприятия</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
